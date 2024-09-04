@@ -16,7 +16,7 @@
 
 [`ℹ️Contact Owner`](https://wa.me/255752593977)
 
-[!FORK Cod3Uchiha]•https://github.com/kingfredie/CODE-GENERATION/fork
+[!`FORK KINGFREDIE`](https://github.com/kingfredie/CODE-GENERATION/fork) 
 
 Now Deploy
     <br>
