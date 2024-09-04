@@ -2,7 +2,7 @@
     "name": "Fredi Session Generator",
     "description": "I'm Web Session Generator by fredie",
     "logo": "",
-    "repository": "https://github.com/kingfredie/CODE-GENERATION",
+    "repository": "https://github.com/Giftedmaurice/giftedmdV2-session-generator",
     "keywords": ["@Xcelsama"],
     "success_url": "/", 
     "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
