@@ -1,8 +1,8 @@
 {
-    "name": "Wasi Session Generator",
-    "description": "I'm Web Session Generator by Itxx Me Wasi",
+    "name": "Fredie Session Generator",
+    "description": "I'm Web Session Generator by kingfredie Me fredie",
     "logo": "",
-    "repository": "https://github.com/Giftedmaurice/giftedmdV2-session-generator",
+    "repository": "https://github.com/Fred1e/LUCKY_MD",
     "keywords": ["@Xcelsama"],
     "success_url": "/", 
     "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
