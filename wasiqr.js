@@ -60,28 +60,31 @@ router.get('/', async (req, res) => {
 	
 				   let WASI_MD_TEXT = `
 *_QR Code Connected*
-*_Made With by Cod3Uchiha🤍_*
+*_Made With by Fredie♻️_*
 ______________________________________
 ╔════◇
-║ FOR ALL COD3UCHIHA BOTS
+║ FOR ALL FREDIE BOTS
 ║ _Thanks for your support._
 ╚════════════════════════╝
 ╔═════◇
 ║  『••• ⬡𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽⬡ •••』
-║⬡ *Ytube:* _youtube.com/@Cod3Uchiha_
-║⬡ *Owner:* _https://wa.me/263785028126_
+║⬡ *Ytube:* _youtube.com/@freeonlinetvT1_
+║⬡ *Wa-me:* _https://wa.me/255752593977_
+║⬡ *Wa-me:* _https://wa.me/255620814108_
+║⬡ *T-me:* _t.me/freditech_
 ║
 ║⬡MY bot Repos⬡
 ║
-║⬡ *TKM bot:* _https://github.com/Cod3Uchiha/TKM-bot_
-║⬡ *Manjiro-Sano-md:* _https://github.com/Cod3Uchiha/Manjiro-Sano-md_
+║⬡ *LUCKY_MD:* _https://github.com/Fred1e/LUCKY_MD_
+║⬡ *My Github:* _https://github.com/Fred1e_
 ║
 ║⬡Support channels⬡
 ║
-║⬡ *COD3UCHIHA:* _https://whatsapp.com/channel/0029VaKjSra9WtC0kuJqvl0g_
-║⬡ *TKM inc:* _https://whatsapp.com/channel/0029VadFn9M545v25zjEWI3I_
+║⬡ *WATSAPP:* _https://whatsapp.com/channel/0029VAIHCQV84OM8LP59FO3F_
+║⬡ *WA GROUP:* _https://chat.whatsapp.com/HdrwMccSFIaB5Zi7s9BzN9_
+║⬡ *TELEGRAM:* _https://t.me/+u3zlb5y6OfxhOTdk_
 ║
-║⬡ *©Copyright* _Takudzwa-Mlambo|Cod3Uchiha
+║⬡ *©Copyright* _Fredi-Ezra|kingfredie_
 ╚══════════════════════════════════╝
 _____________________________________
 	
