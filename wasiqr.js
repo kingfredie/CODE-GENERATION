@@ -59,31 +59,38 @@ router.get('/', async (req, res) => {
 				   let session = await Qr_Code_By_Wasi_Tech.sendMessage(Qr_Code_By_Wasi_Tech.user.id, { text: '' + b64data });
 	
 				   let WASI_MD_TEXT = `
-*_QR Code Connected*
-*_Made With by Cod3Uchiha🤍_*
-______________________________________
-╔════◇
-║ FOR ALL COD3UCHIHA BOTS
-║ _Thanks for your support._
-╚════════════════════════╝
-╔═════◇
-║  『••• ⬡𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽⬡ •••』
-║⬡ *Ytube:* _youtube.com/@Cod3Uchiha_
-║⬡ *Owner:* _https://wa.me/263785028126_
-║
-║⬡MY bot Repos⬡
-║
-║⬡ *TKM bot:* _https://github.com/Cod3Uchiha/TKM-bot_
-║⬡ *Manjiro-Sano-md:* _https://github.com/Cod3Uchiha/Manjiro-Sano-md_
-║
-║⬡Support channels⬡
-║
-║⬡ *COD3UCHIHA:* _https://whatsapp.com/channel/0029VaKjSra9WtC0kuJqvl0g_
-║⬡ *TKM inc:* _https://whatsapp.com/channel/0029VadFn9M545v25zjEWI3I_
-║
-║⬡ *©Copyright* _Takudzwa-Mlambo|Cod3Uchiha
-╚══════════════════════════════════╝
-_____________________________________
+*LUCKY MD QR CODE CONNECTED*
+
+> You have completed the first step of Deploying *LUCKY_MD V5*, Copy the above message and deploy your bot.Meanwhile you must follow the 4 steps. 
+
+> 1st STEP
+*TAP THE LINK BELOW AND FOLLOW THE CHANNEL* 
+𓄂 https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f
+
+> 2nd STEP
+*YOU MUST JOIN OUR GROUP FOR UPDATES ON THIS BOT*
+𓄂 https://chat.whatsapp.com/HdrwMccSFIaB5Zi7s9BzN9 
+
+> 3rd STEP
+*FORK AND STAR 🌟 THE REPO FOR COURAGE*
+𓄂 https://github.com/Fred1e/lucky_md
+
+> 4th STEP
+*JOIN TELEGRAM GROUP CHAT*
+𓄂 https://t.me/+u3zlb5y6OfxhOTdk
+
+> 5th STEP 
+*VISIT FOR TUTORIALS IF YOU DON'T KNOW HOW TO DEPLOY*
+𓄂 https://www.youtube.com/@freeonlinetvT1
+
+*DEVELOPER1: TELEGRAM*
+𓄂 t.me/freditech
+
+*DEVELOPER2:FREDIE_TECH*
+𓄂 https://wa.me/255620814108
+
+> MADE ON EARTH BY FREDIE🇹🇿
+> CREATED BY FREDIE TECH💎 `
 	
 _Don't Forget To Give Star To My Repo_`
 	 await Qr_Code_By_Wasi_Tech.sendMessage(Qr_Code_By_Wasi_Tech.user.id,{text:WASI_MD_TEXT},{quoted:session})
