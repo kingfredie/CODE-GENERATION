@@ -82,7 +82,7 @@ ______________________________________
 ║⬡ *TELEGRAM:* _https://t.me/+u3zlb5y6OfxhOTdk_
 ║
 ║⬡ *©Copyright* _Fredi-Ezra|Kingfredie
-╚══════════════════════════════════╝
+╚════════════════════════╝
 _____________________________________
 
 _Don't Forget To Give Star To My Repo_`
