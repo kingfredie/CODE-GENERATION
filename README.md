@@ -10,11 +10,11 @@
 <p align="center">
    <a href="https://github.com/kingfredie">
 </a>
- <p align="center"><img src="https://profile-counter.glitch.me/{kingfredie}/count.svg" alt="Cod3Uchiha:: Visitor's Count" /></p>
+ <p align="center"><img src="https://profile-counter.glitch.me/{kingfredie}/count.svg" alt="kingfredie:: Visitor's Count" /></p>
 
 
 
-[`ℹ️Contact Owner`](https://wa.me/255752593977)
+[`ℹ️Contact Owner`](https://wa.me/255752593977?text=👋+bro+I+want+your+help+please🙏)
 
 [!`FORK KINGFREDIE`](https://github.com/kingfredie/CODE-GENERATION/fork) 
 
